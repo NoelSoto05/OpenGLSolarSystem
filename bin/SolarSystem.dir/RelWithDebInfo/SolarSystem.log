@@ -1,0 +1,12 @@
+﻿  Building Custom Rule E:/IT356/it356SolarSystem/it356_project_NoelSoto/src/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '/EH;'
+cl : command line  warning D9002: ignoring unknown option '/EH-'
+cl : command line  warning D9002: ignoring unknown option '/EHt'
+cl : command line  warning D9002: ignoring unknown option '/EHd'
+cl : command line  warning D9002: ignoring unknown option '/EH='
+cl : command line  warning D9002: ignoring unknown option '/EH+'
+cl : command line  warning D9002: ignoring unknown option '/EH+'
+cl : command line  warning D9002: ignoring unknown option '/EH1'
+cl : command line  warning D9002: ignoring unknown option '/EH1'
+  SolarSystem.cpp
+  SolarSystem.vcxproj -> E:\IT356\it356SolarSystem\it356_project_NoelSoto\bin\bin\SolarSystem.exe

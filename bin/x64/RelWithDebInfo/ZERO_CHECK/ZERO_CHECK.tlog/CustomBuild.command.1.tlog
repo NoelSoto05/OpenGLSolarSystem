@@ -1,0 +1,10 @@
+^E:\IT356\IT356SOLARSYSTEM\IT356_PROJECT_NOELSOTO\BIN\CMAKEFILES\807D2DCA6B794EA776F977C0B5B0CC29\GENERATE.STAMP.RULE
+setlocal
+E:\Cmake\bin\cmake.exe -SE:/IT356/it356SolarSystem/it356_project_NoelSoto/src -BE:/IT356/it356SolarSystem/it356_project_NoelSoto/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/IT356/it356SolarSystem/it356_project_NoelSoto/bin/it356_project_NoelSoto.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
