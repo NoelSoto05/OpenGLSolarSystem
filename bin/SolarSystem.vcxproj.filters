@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\source\SolarSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\vec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\shader_m.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\shader_s.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\filesystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\include\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\shader\6.4.skybox.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\shader\6.4.skybox.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\shader\6.4.cubemaps.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\shader\sphereFrag.frag">
+      <Filter>Shader Files</Filter>
+    </None>
+    <None Include="E:\IT356\it356SolarSystem\it356_project_NoelSoto\src\shader\sphereVert.vert">
+      <Filter>Shader Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{99C49DBD-96FB-3BF6-86A6-1B0AD1328A62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader Files">
+      <UniqueIdentifier>{C2A5004E-D80A-3DD8-A59F-557C75AB6AE8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{742ACB95-9819-3495-BEC3-4B5810327C26}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
